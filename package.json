@@ -24,7 +24,9 @@
   "dependencies": {
     "@popperjs/core": "^2.10.1",
     "bootstrap": "^5.1.1",
+    "bootstrap-social": "^5.1.1",
     "bufferutil": "^4.0.1",
+    "font-awesome": "^4.7.0",
     "utf-8-validate": "^5.0.2"
   }
 }
